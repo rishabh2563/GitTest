@@ -1,6 +1,6 @@
 class Homepage{
     constructor(){
-        this.name='Rishabh'
+        this.name='Rishabh tripathi'
         this.age='25'
     }
     

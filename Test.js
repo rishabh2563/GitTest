@@ -1,7 +1,7 @@
 class Homepage{
     constructor(){
         this.name='Rishabh tripathi'
-        this.age='25'
+        this.age='26'
     }
     
 }

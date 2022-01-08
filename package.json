@@ -1,0 +1,23 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh2563/GitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh2563/GitTest/issues"
+  },
+  "homepage": "https://github.com/rishabh2563/GitTest#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "moment": "^2.29.1"
+  }
+}

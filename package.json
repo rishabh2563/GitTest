@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rishabh2563/GitTest#readme",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "moment": "^2.29.1"
   }
 }
